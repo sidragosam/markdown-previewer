@@ -48,7 +48,7 @@ And if you want to get really crazy, even tables:
 - Even if you use dashes or asterisks.
 
 And last but not least, let's not forget embedded images:
-![React Logo w/ Text](https://goo.gl/Umyytc)
+![React Logo w/ Text](https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U)
 `;
 
   const [markdown, setMarkdown] = useState(initialMarkdown);
