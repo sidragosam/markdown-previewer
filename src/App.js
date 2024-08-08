@@ -26,7 +26,7 @@ Or _italic_.
 Or... wait for it... **_both!_**
 And feel free to go crazy ~~crossing stuff out~~.
 
-There's also [freeCodeCamp](https://www.freecodecamp.com), [Igneczi Tibor](https://igneczitibor.hu) and
+There's also links like: [freeCodeCamp](https://www.freecodecamp.com), [Igneczi Tibor](https://igneczitibor.hu) and
 > Block Quotes!
 
 And if you want to get really crazy, even tables:
