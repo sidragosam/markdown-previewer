@@ -7,7 +7,10 @@ const Preview = ({ markdown }) => {
   };
 
   return (
-    <div id="preview" dangerouslySetInnerHTML={renderMarkdown(markdown)} />
+    <div
+      dangerouslySetInnerHTML={renderMarkdown(markdown)}
+      className="w-1/2 p-4 bg-gray-950 bg-opacity-50 text-white mt-8 rounded-md mb-8 border-2 border-pink-200"
+    />
   );
 };
 

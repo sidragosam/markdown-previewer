@@ -26,7 +26,7 @@ Or _italic_.
 Or... wait for it... **_both!_**
 And feel free to go crazy ~~crossing stuff out~~.
 
-There's also [links](https://www.freecodecamp.com), and
+There's also [freeCodeCamp](https://www.freecodecamp.com), [Igneczi Tibor](https://igneczitibor.hu) and
 > Block Quotes!
 
 And if you want to get really crazy, even tables:
@@ -54,7 +54,7 @@ And last but not least, let's not forget embedded images:
   const [markdown, setMarkdown] = useState(initialMarkdown);
 
   return (
-    <div className="App">
+    <div className="flex flex-col justify-center items-center min-h-screen bg-gradient-to-r from-purple-950 to-gray-950">
       <Editor markdown={markdown} onMarkdownChange={setMarkdown} />
       <Preview markdown={markdown} />
     </div>
